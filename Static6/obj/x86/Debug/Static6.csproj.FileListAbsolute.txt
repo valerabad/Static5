@@ -1,0 +1,8 @@
+C:\Users\HP\AppData\Local\Temporary Projects\Static6\bin\Debug\Static6.exe
+C:\Users\HP\AppData\Local\Temporary Projects\Static6\bin\Debug\Static6.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\Static6\obj\x86\Debug\Static6.exe
+C:\Users\HP\AppData\Local\Temporary Projects\Static6\obj\x86\Debug\Static6.pdb
+C:\Users\HP\Desktop\Course\Static6\Static6\obj\x86\Debug\Static6.exe
+C:\Users\HP\Desktop\Course\Static6\Static6\obj\x86\Debug\Static6.pdb
+C:\Users\HP\Desktop\Course\Static6\Static6\bin\Debug\Static6.exe
+C:\Users\HP\Desktop\Course\Static6\Static6\bin\Debug\Static6.pdb
